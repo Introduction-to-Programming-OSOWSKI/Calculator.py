@@ -1,16 +1,30 @@
 # **Assignment Title**  
 
 ## **Assignment Description**  
-
+Create a function named calculate() that has options to add, subtract, multiply, or divide two given variables x and y, and returns the result. 
 
 ## **Examples**  
->
+>calculate("add", 5, 5)  
+10
+
+>calculate("subtract", 10, 10)  
+0
+
+>calculate("multiply", 10, 10)  
+100
+
+>calculate("divide", 10, 10)  
+1
 
 ## **Limitations**  
-
+1 if  
+2 elif   
+1 else  
 ## **Hints**  
+N/A  
 
 ## **Concepts**  
+Unit 1, if/else  
 
 ---
 
